@@ -1,0 +1,90 @@
+{
+    "react-bootstrap.element-children/element-children/for-each@1": {
+        "files": [
+            {
+                "relativePath": "src/for-each.js",
+                "test": false,
+                "name": "for-each.js"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/for-each.js"
+    },
+    "react-bootstrap.element-children/element-children/some@1": {
+        "files": [
+            {
+                "relativePath": "src/some.js",
+                "test": false,
+                "name": "some.js"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/some.js"
+    },
+    "react-bootstrap.element-children/element-children/count@1": {
+        "files": [
+            {
+                "relativePath": "src/count.js",
+                "test": false,
+                "name": "count.js"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/count.js"
+    },
+    "react-bootstrap.element-children/element-children/to-array@1": {
+        "files": [
+            {
+                "relativePath": "src/to-array.js",
+                "test": false,
+                "name": "to-array.js"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/to-array.js"
+    },
+    "react-bootstrap.element-children/element-children/find@1": {
+        "files": [
+            {
+                "relativePath": "src/find.js",
+                "test": false,
+                "name": "find.js"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/find.js"
+    },
+    "react-bootstrap.element-children/element-children/filter@1": {
+        "files": [
+            {
+                "relativePath": "src/filter.js",
+                "test": false,
+                "name": "filter.js"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/filter.js"
+    },
+    "react-bootstrap.element-children/element-children/map@1": {
+        "files": [
+            {
+                "relativePath": "src/map.js",
+                "test": false,
+                "name": "map.js"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/map.js"
+    },
+    "react-bootstrap.element-children/element-children/every@1": {
+        "files": [
+            {
+                "relativePath": "src/every.js",
+                "test": false,
+                "name": "every.js"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/every.js"
+    }
+}
